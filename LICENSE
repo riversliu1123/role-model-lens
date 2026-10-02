@@ -1,0 +1,130 @@
+Role Model Lens Source-Available License 1.0
+
+Copyright (c) 2026 riversliu1123
+
+1. Scope and acceptance
+
+This license applies to the original Role Model Lens instructions and
+documentation that the copyright holder (the "Licensor") distributes with
+this license (the "Material"). It also governs your use and distribution
+of modifications to that Material. Exercising permissions granted by this
+license requires compliance with its terms. Rights available independently
+under applicable law are not restricted by this license.
+
+These terms apply to the Material and its modifications, not to the
+general idea of role-model advice. They do not restrict independently
+developed instructions or products that do not use or copy the Material
+or modifications of it. Similar functionality alone does not bring an
+independent work under this license.
+
+2. Permitted use and modification
+
+You may use, copy and modify the Material for personal purposes and for
+your or your organization's internal work, including commercial work.
+You may use it as an internal aid to produce ordinary work products for
+paying clients, subject to sections 3 and 4.
+
+3. Free redistribution
+
+You may distribute original or modified copies of the Material without
+charge, provided that you include this entire license and the copyright
+notice, identify modifications prominently, and distribute the Material
+and modifications under these same terms. You may not impose additional
+restrictions on the permissions granted here or remove these restrictions.
+You must not represent a modified version as an official release.
+Charging for a bundle, subscription or other access that includes the
+Material does not qualify as distribution without charge.
+
+4. Uses requiring separate written permission
+
+Without separate written permission from the Licensor, you may not:
+
+(a) sell, license for a fee, rent, or otherwise charge for copies of or
+    access to the original or modified Material;
+(b) incorporate the original or modified Material into a product or
+    service offered for payment, including paid bundles, subscriptions,
+    or a free tier that is part of a paid product or service; or
+(c) provide paying customers with an interface or other access to run
+    the Material or a modification, or sell a service that undertakes
+    to run it on customers' behalf. This includes an API, chatbot,
+    subscription, or a human-operated service that specifically offers
+    or promises customers operation of the Material as part of what
+    they buy. A professional privately choosing the Material as an
+    internal tool, without offering customers its operation or access,
+    is not providing that service merely by receiving client questions.
+    Editing or forwarding answers does not exempt a service that does
+    offer such operation or access.
+
+Internal use as a tool to assist ordinary work is not, by itself,
+incorporation into a paid product or service. Payment to an independent
+general-purpose AI host solely to run your own permitted use is not a
+payment for access to the Material under this section.
+
+5. Ordinary work products
+
+Reports, plans, creative work and other ordinary outputs do not become
+subject to this license merely because the Material helped produce them.
+You may use and charge for those outputs, including a professional report
+containing role-model-informed recommendations. For example, a consultant
+may choose the Material as an internal tool while delivering a report,
+without granting the client access to the tool or selling its operation
+as part of the service. No minimum amount of human editing or analysis
+is required by this license.
+
+In contrast, charging a customer for a service specifically offering
+processing of their questions through this skill requires separate
+permission under section 4(c),
+even if the answer is delivered as a report or consultation. The actual
+service and access supplied control this distinction, not its name.
+This exception does not permit distributing the Material or modifications
+in violation of sections 3 or 4. This license makes no
+representation about ownership of outputs or rights in third-party content.
+
+6. Attribution, third-party rights and additional permission
+
+This license grants no rights in third-party articles, quotations, lyrics,
+images, recordings, names, likenesses or other third-party material, and
+no right to imply endorsement by the Licensor or any person discussed.
+It does not require attributing ordinary outputs that contain no Material.
+The Licensor may offer separate permissions only for rights the Licensor
+owns or is authorized to license. This license does not transfer ownership
+of others' contributions or authorize the Licensor to relicense those
+contributions on different terms without the necessary permission.
+Request additional permissions through
+https://github.com/riversliu1123/role-model-lens/issues using only a
+non-sensitive summary. Silence or an unanswered request is not permission.
+
+7. Termination
+
+The permissions granted here end automatically if you violate this
+license. On termination you must stop uses and distributions that rely
+on these permissions.
+
+For the first written notice of violation you receive from the Licensor,
+permissions are automatically reinstated if, within 30 calendar days
+after receipt, you fully comply with this license and take reasonable
+steps to remedy past violations. This cure opportunity does not permit
+continued prohibited activity during those 30 days. For example, stop
+an unauthorized paid offering while correcting the violation; restore
+missing notices to copies you control and notify affected recipients
+when reasonably possible. Reinstatement does not waive claims for past
+violations.
+
+If you do not cure within that period, or if you violate this license
+again after reinstatement, reinstatement requires the Licensor's written
+permission. Termination of your permissions does not terminate those of
+recipients who independently comply with this license.
+
+8. No warranty or liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE MATERIAL IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+THE LICENSOR IS NOT LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+ARISING FROM THE MATERIAL OR ITS USE, WHETHER IN CONTRACT, TORT OR
+OTHERWISE. NO ACCURACY, SAFETY OR SUITABILITY OF GENERATED ADVICE IS
+GUARANTEED. NOTHING HERE EXCLUDES LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED.
+
+This is a custom source-available license, not the MIT License or an
+OSI-approved open-source license. Its text has not received professional
+legal review; no representation of enforceability is made.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Role Model Lens"
+  short_description: "Bring grounded role-model perspectives into a chat"
+  default_prompt: "Use $role-model-lens to help me explore my current decision through a role model I choose."
